@@ -1,8 +1,0 @@
-services:
-  - type: web
-    runtime: static
-    name: paula-17
-    buildCommand: ""
-    staticPublishPath: .
-    branch: main
-    autoDeploy: true
